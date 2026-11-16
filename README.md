@@ -1,4 +1,6 @@
-# git-dragon
+# Dragon For Github
+
+![Tinted by TypeScript, JavaScript and Go](docs/adult-typescript-javascript-go.gif)
 
 An emerald pixel-art dragon for your GitHub profile `README.md`. It hatches from an egg, grows with your contribution count, takes on the colours of the languages you write, and loops as a small animated GIF: flapping wings, blinking eyes, and (once it is old enough) breathing fire.
 
